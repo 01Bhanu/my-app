@@ -93,9 +93,8 @@ export const Skills = () => {
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
               <p>
-                 Ipsum is simply dummy text of the printing and typesetting
-                industry.<br></br> Lorem Ipsum has been the industry's standard
-                dummy text.
+              In the world of software development, I have honed a versatile <br></br> skill set that enables me to craft innovative and  efficient solutions. <br></br> My expertise encompasses a wide range of programming languages, <br></br>frameworks, and development methodologies, making me a valuable <br></br> asset in any software project. Here are some of the key skills <br></br>that define my proficiency:.<br></br> 
+               
               </p>
               <Carousel
                 responsive={responsive}

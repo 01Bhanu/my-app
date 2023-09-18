@@ -45,7 +45,7 @@ export const Projects = () => {
   const internship=[
     {
       id: 1,
-      title: "Software Development ",
+      title: "Software Development Intern ",
       description: "Keen Solution",
       duration:"6 Months (April 2023 - present",
       imgUrl: projImg1,
@@ -60,7 +60,7 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2>Projects</h2>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <p>In my journey as a software developer student, I've had the privilege to work on a diverse range of projects, spanning both Android applications and web development. These projects showcase my expertise in crafting tailored solutions for different platforms, each with its unique set of challenges and requirements. Here are some standout examples from my portfolio</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                      <Nav.Item>
