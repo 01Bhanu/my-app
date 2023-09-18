@@ -89,7 +89,7 @@ export const NavBar = () => {
                 </a>
               </div>
               <HashLink to="#connect">
-              <button className="vvd" onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
+              <button className="" onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
 
               </HashLink>
             </span>
