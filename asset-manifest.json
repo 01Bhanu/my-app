@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/my-app/static/css/main.29770aa1.css",
-    "main.js": "/my-app/static/js/main.ee41d243.js",
+    "main.js": "/my-app/static/js/main.1fb344b3.js",
     "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
-    "static/media/example.pdf": "/my-app/static/media/example.e8f8fe02aff12a567782.pdf",
     "static/media/color-sharp.png": "/my-app/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/my-app/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/example.pdf": "/my-app/static/media/example.a97eae134be7a8c52ded.pdf",
     "static/media/banner-bg.png": "/my-app/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/my-app/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/CentraNo2-Bold.ttf": "/my-app/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -31,15 +31,16 @@
     "static/media/revicons.woff": "/my-app/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/logo.svg": "/my-app/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
     "static/media/nav-icon3.svg": "/my-app/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon4.svg": "/my-app/static/media/nav-icon4.97ed8e7eef60d61ca469881dd6f34511.svg",
     "index.html": "/my-app/index.html",
     "static/media/nav-icon1.svg": "/my-app/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/my-app/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.29770aa1.css.map": "/my-app/static/css/main.29770aa1.css.map",
-    "main.ee41d243.js.map": "/my-app/static/js/main.ee41d243.js.map",
+    "main.1fb344b3.js.map": "/my-app/static/js/main.1fb344b3.js.map",
     "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29770aa1.css",
-    "static/js/main.ee41d243.js"
+    "static/js/main.1fb344b3.js"
   ]
 }
