@@ -93,7 +93,7 @@ export const Skills = () => {
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
               <p>
-              In the world of software development, I have honed a versatile <br></br> skill set that enables me to craft innovative and  efficient solutions. <br></br> My expertise encompasses a wide range of programming languages, <br></br>frameworks, and development methodologies, making me a valuable <br></br> asset in any software project. Here are some of the key skills <br></br>that define my proficiency:.<br></br> 
+              In the world of software development, I have honed a versatile <br></br> skill set that enables me to craft innovative and  efficient solutions. <br></br> My expertise encompasses a wide range of programming languages, <br></br>frameworks, and development methodologies, making me a valuable <br></br> asset in any software project. Here are some of the key skills <br></br>that define my proficiency:<br></br> 
                
               </p>
               <Carousel

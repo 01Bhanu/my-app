@@ -28,8 +28,8 @@ export const Contact = () => {
     setButtonText("Sending...");
     console.log(data);
     var temp = {
-      to_name: data.name,
       from_name: data.email,
+      to_name: data.name,
       message: data.message,
     };
 
